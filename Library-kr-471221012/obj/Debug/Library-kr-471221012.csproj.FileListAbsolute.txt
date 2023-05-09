@@ -1,0 +1,6 @@
+C:\Users\Acer\Desktop\kursova_rabota_471221012\Library-kr-471221012\bin\Debug\Library-kr-471221012.dll
+C:\Users\Acer\Desktop\kursova_rabota_471221012\Library-kr-471221012\bin\Debug\Library-kr-471221012.pdb
+C:\Users\Acer\Desktop\kursova_rabota_471221012\Library-kr-471221012\obj\Debug\Library-kr-471221012.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\kursova_rabota_471221012\Library-kr-471221012\obj\Debug\Library-kr-471221012.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\kursova_rabota_471221012\Library-kr-471221012\obj\Debug\Library-kr-471221012.dll
+C:\Users\Acer\Desktop\kursova_rabota_471221012\Library-kr-471221012\obj\Debug\Library-kr-471221012.pdb

@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\kursova_rabota_471221012.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\kursova_rabota_471221012.FormScene.resources
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\kursova_rabota_471221012.Properties.Resources.resources
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\kursova_rabota_471221012.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\kursova_rabota_471221012.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\kursova_rabota_471221012.FormCircle.resources
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\kursova_rabota_471221012.FormRectangle.resources
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\kursova_rabota_471221012.FormSquare.resources
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\kursova_rabota_471221012.FormBGFlag.resources
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\kursova_rabota_471221012.FormTriangle.resources
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\bin\Debug\kursova_rabota_471221012.exe.config
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\bin\Debug\kursova_rabota_471221012.exe
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\bin\Debug\kursova_rabota_471221012.pdb
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\kursova_rabota_471221012.exe
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\kursova_rabota_471221012.pdb
